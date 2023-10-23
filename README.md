@@ -35,6 +35,6 @@
 
 <p>&nbsp;&nbsp;</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardostr&theme=vision-friendly-dark&show_icons=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardorodrigues&layout=compact&langs_count=6&theme=radical&mode=weekly)](https://github.com/eduardostr)
+![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com?user=eduardostr&theme=radical&mode=weekly)
+[![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardostr&layout=compact&langs_count=6&theme=radical&mode=weekly)](https://github.com/eduardostr)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=eduardostr&theme=chartreuse-dark&show_icons=true)](https://github.com/eduardostr/github-readme-stats) -->
