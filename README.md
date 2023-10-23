@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px"  height=400px width=100% src="https://cdn-hjjbh.nitrocdn.com/NUieNuHBZnIwKENrkVrRTxbvvmcPrKtl/assets/images/optimized/rev-efe8267/www.qamadness.com/wp-content/uploads/2019/04/EasyCheck-CPKLaunch-Blog.gif" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/eduardostr/eduardostr/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">❤️ Sou um profissional de Quality Assurance, com mais de um ano de experiência, especializado em testes manuais e automatizados. Minhas habilidades técnicas estão centradas na área de testes de software, com conhecimento em diversas abordagens, incluindo Testes Funcionais, Testes Exploratórios, Testes de Integração, BDD (Behavior-Driven Development), Testes de API, Testes de Sistemas e Escrita e Analise de Testes.</p>&nbsp;
@@ -25,12 +25,10 @@
 ![Azure Devops](https://camo.githubusercontent.com/e635c8509d513fd5ed5c9127dadd45efa44cc00a2be24da4e71bfd8afe58c631/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6963726f736f6674253230617a7572652d3030383944363f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d617a757265266c6f676f436f6c6f723d7768697465)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Github Actions](https://camo.githubusercontent.com/10fbc037dc192b6e84b8bcd8b9eb1762841606a8e5476cbf1fe4d5fcb17fed48/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875625f416374696f6e732d3230383846463f7374796c653d666f722d7468652d6261646765266c6f676f3d6769746875622d616374696f6e73266c6f676f436f6c6f723d7768697465)
+![Robot](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
+
 ![VS Code](https://img.shields.io/badge/VisualStudioCode-3d85c6?style=for-the-badge&logo=VisualStudioCode&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-<p>&nbsp;&nbsp;</p>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p>&nbsp;&nbsp;</p>
 
