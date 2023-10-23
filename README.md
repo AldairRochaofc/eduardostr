@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/eduardostr/eduardostr/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px"  height=400px width=100% src="https://cdn-hjjbh.nitrocdn.com/NUieNuHBZnIwKENrkVrRTxbvvmcPrKtl/assets/images/optimized/rev-efe8267/www.qamadness.com/wp-content/uploads/2019/04/EasyCheck-CPKLaunch-Blog.gif" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">❤️ Sou um profissional de Quality Assurance, com mais de um ano de experiência, especializado em testes manuais e automatizados. Minhas habilidades técnicas estão centradas na área de testes de software, com conhecimento em diversas abordagens, incluindo Testes Funcionais, Testes Exploratórios, Testes de Integração, BDD (Behavior-Driven Development), Testes de API, Testes de Sistemas e Escrita e Analise de Testes.</p>&nbsp;
@@ -17,6 +17,7 @@
 
 # :computer: Technologies :brain:
 
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-35495E?style=for-the-badge&logo=cypress&logoColor=4FC08D)
@@ -26,9 +27,12 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Github Actions](https://camo.githubusercontent.com/10fbc037dc192b6e84b8bcd8b9eb1762841606a8e5476cbf1fe4d5fcb17fed48/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875625f416374696f6e732d3230383846463f7374796c653d666f722d7468652d6261646765266c6f676f3d6769746875622d616374696f6e73266c6f676f436f6c6f723d7768697465)
 ![Robot](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
-
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VisualStudioCode-3d85c6?style=for-the-badge&logo=VisualStudioCode&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p>&nbsp;&nbsp;</p>
 
