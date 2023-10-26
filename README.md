@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px"  height=400px width=100% src="https://cdn-hjjbh.nitrocdn.com/NUieNuHBZnIwKENrkVrRTxbvvmcPrKtl/assets/images/optimized/rev-efe8267/www.qamadness.com/wp-content/uploads/2019/04/EasyCheck-CPKLaunch-Blog.gif" />
+<img align="center" style="margin-bottom:100px"  height=400px width=100% src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">❤️ Sou um profissional de Quality Assurance, com mais de um ano de experiência, especializado em testes manuais e automatizados. Minhas habilidades técnicas estão centradas na área de testes de software, com conhecimento em diversas abordagens, incluindo Testes Funcionais, Testes Exploratórios, Testes de Integração, BDD (Behavior-Driven Development), Testes de API, Testes de Sistemas e Escrita e Analise de Testes.</p>&nbsp;
