@@ -1,8 +1,8 @@
 
-<img align="center" style="margin-bottom:100px"  height=400px width=100% src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" />
+<img align="center" style="margin-bottom:100px"  width=100%; max-width=100%; height=auto; display=block; src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">❤️ Sou um profissional de Quality Assurance, com mais de um ano de experiência, especializado em testes manuais e automatizados. Minhas habilidades técnicas estão centradas na área de testes de software, com conhecimento em diversas abordagens, incluindo Testes Funcionais, Testes Exploratórios, Testes de Integração, BDD (Behavior-Driven Development), Testes de API, Testes de Sistemas e Escrita e Analise de Testes.</p>&nbsp;
+<p align="center">❤️ Atualmente, exerço a função de Analista QA com mais de um ano de experiência, e pude participar de alguns projetos, dentre eles o mais recente, destaco o GoGame que é um app que permite encontrar jogadores com os mesmos jogos e interesses, além de trocar dicas e combinar partidas online. Neste projeto realizei testes manuais, automatizados e de API Rest.</p>&nbsp;
 
 <p>&nbsp;&nbsp;</p>
 
